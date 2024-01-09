@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+About Me
+🏠 I'm juniour Front-end Developer.
+⭐ I'm currently learning TypeScript and React with RTK
 
-- 🌱 I’m currently learning React, Typescript, RTK, RTL
+[![codewars](https://www.codewars.com/users/freddypopa/badges/small)](https://www.codewars.com/users/freddypopa) 
 
