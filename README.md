@@ -4,33 +4,39 @@
     <h3>Connect with me:</h3>  
     
 <a href="https://t.me/freddypopa1" target="_blank">![tg-icon](/assets/icon-connect/tg.png)</a>
-<a href="https://vk.com/epifanovloh" target="_blank">![vk-icon](/assets/icon-connect/vk.png)</a>
 <a href="https://vladikavkaz.hh.ru/resume/7a0a3ca3ff0cbd17ef0039ed1f56456774796a" target="_blank">![hh-icon](/assets/icon-connect/hh.png)</a>
 <a href="mailto:artem.vasilencko1@yandex.ru" target="_blank">![mail-icon](/assets/icon-connect/mail.png)</a>
 </div>
 
 ### About Me
 
-🏠 I'm middle **Front-end Developer** living in **Vladikavkaz**.  
+🏠 I'm **Front-end Developer** living in **Vladikavkaz**.  
 ⭐ I'm currently learning **TypeScript** and **React**  
 ❤️ And I enjoy making beautiful web sites on **HTML**,**CSS** and **JavaScript**
 
-### Languages and Tools:
+<img src="https://www.codewars.com/users/freddypopa/badges/large" alt="codewars">
 
-![HTML5](https://img.shields.io/badge/-HTML5-090909?style=plastic&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=plastic&logo=css3)
-![Scss](https://img.shields.io/badge/-Scss-090909?style=plastic&logo=Sass)
-![JS](https://img.shields.io/badge/-JS-090909?style=plastic&logo=javascript)
-![TS](https://img.shields.io/badge/-TS-090909?style=plastic&logo=TypeScript)
+<div id="technical_skills">
+<h3>💼 Technical skills:</h3>
 
-![React](https://img.shields.io/badge/-React-090909?style=plastic&logo=react)
-![Redux](https://img.shields.io/badge/-Redux_|_RTK-090909?style=plastic&logo=Redux)
-![Next.js](https://img.shields.io/badge/-Next.js-090909?style=plastic&logo=Next.js)
+<br>
 
-![Git](https://img.shields.io/badge/-Git-090909?style=plastic&logo=git)
-![WebPack](https://img.shields.io/badge/-WebPack-090909?style=plastic&logo=webpack)
-![Vite](https://img.shields.io/badge/-Vite-090909?style=plastic&logo=vite)
-![Npm](https://img.shields.io/badge/-NPM-090909?style=plastic&logo=npm)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![reactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![nextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+<br />
 
-![Jest](https://img.shields.io/badge/-Jest-000000?style=plastic&logo=Jest)
-![testinglibrary](https://img.shields.io/badge/-Testing_Library-000000?style=plastic&logo=testinglibrary)
+![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![material-ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+<br />
+
+![vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
