@@ -14,10 +14,10 @@
 ⭐ I'm currently learning **TypeScript** and **React**  
 ❤️ And I enjoy making beautiful web sites on **HTML**,**CSS** and **JavaScript**
 
-<img src="https://www.codewars.com/users/freddypopa/badges/large" alt="codewars">
-
 <div id="technical_skills">
 <h3>💼 Technical skills:</h3>
+
+<img src="https://www.codewars.com/users/freddypopa/badges/large" alt="codewars">
 
 <br>
 
