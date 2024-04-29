@@ -14,10 +14,8 @@
 ⭐ I'm currently learning **TypeScript** and **React**  
 ❤️ And I enjoy making beautiful web sites on **HTML**,**CSS** and **JavaScript**
 
-<div id="technical_skills">
+<div padding="10px">
 <h3>💼 Technical skills:</h3>
-
-<img src="https://www.codewars.com/users/freddypopa/badges/large" alt="codewars">
 
 <br>
 
@@ -40,3 +38,5 @@
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
+
+<img src="https://www.codewars.com/users/freddypopa/badges/large" alt="codewars">
