@@ -1,4 +1,4 @@
- <img src="./assets/main-banner1.png" alt="in-icon">
+ <img src="./assets/main-banner2.png" alt="in-icon">
 
 <div align="center">
     <h3>Connect with me:</h3>  
