@@ -16,7 +16,7 @@
 ❤️ And I enjoy making beautiful web sites on **HTML**,**CSS** and **JavaScript**
 
 <div >
-<h3 class="test-hover">💼 Technical skills:</h3>
+<h3 class="heading-element">💼Technical skills:</h3>
 
 <br>
 
