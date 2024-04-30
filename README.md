@@ -1,4 +1,4 @@
- <link rel="stylesheet" type="text/css" href="https://github.com/ArtemVasilencko/ArtemVasilencko/tree/main/assets/css/style.css">
+ <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/ArtemVasilencko/ArtemVasilencko/main/assets/css/style.css">
  <img src="./assets/main-banner.png" alt="in-icon">
 
 <div align="center">
