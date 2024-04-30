@@ -1,3 +1,4 @@
+ <link rel="stylesheet" type="text/css" href="https://github.com/ArtemVasilencko/ArtemVasilencko/tree/main/assets/css/style.css">
  <img src="./assets/main-banner.png" alt="in-icon">
 
 <div align="center">
@@ -15,7 +16,7 @@
 ❤️ And I enjoy making beautiful web sites on **HTML**,**CSS** and **JavaScript**
 
 <div >
-<h3>💼 Technical skills:</h3>
+<h3 class="test-hover">💼 Technical skills:</h3>
 
 <br>
 
