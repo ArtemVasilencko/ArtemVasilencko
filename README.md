@@ -43,6 +43,6 @@
 <div id="achivements">
 <h3>🏆 Achivements:</h3>
   
-![image](https://www.codewars.com/users/freddypopa/badges/large)
+![image](https://www.codewars.com/users/freddypopa_Vld/badges/large)
 
 </div>
